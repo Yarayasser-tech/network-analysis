@@ -1,1 +1,1 @@
-Analyza network traffic to identify potential security threats. Using tools like Wireshark or Tcpdump to capture and analyze network packets. Document suspicious activities and propose recommendations to mitigate identified risks.
+Analyze network traffic to identify potential security threats. Using tools like Wireshark or Tcpdump to capture and analyze network packets. Document suspicious activities and propose recommendations to mitigate identified risks.
